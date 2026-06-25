@@ -155,18 +155,7 @@ The dashboard will open automatically in your web browser.
 
 ---
 
-# 📷 Dashboard Screenshots
 
-Add screenshots inside the **screenshots** folder.
-
-Example:
-
-* Dashboard Home
-* KPI Cards
-* Transfer Efficiency
-* Backlog Analysis
-
----
 
 # 📊 Project Outcomes
 
@@ -219,9 +208,13 @@ The detailed research report and executive summary will be available in the **re
 # 👨‍💻 Author
 
 **Ashutosh Sharma **
+
 MBA (Business Analytics)
+
 Amity University Online
+
 Internship Project 
+
 LinkedIn: https://linkedin.com/in/ashutoshsharma0214
 
 ---
