@@ -10,6 +10,24 @@ An interactive **Streamlit Dashboard** has been developed to visualize Key Perfo
 
 ---
 
+## 🎓 Internship Project
+
+**This project was successfully completed as part of my Business Analytics Internship at Unified Mentor.**
+
+During this internship, I designed and developed the **Care Transition Efficiency & Placement Outcome Analytics** system, an end-to-end Business Analytics solution for evaluating the operational efficiency of the Unaccompanied Alien Children (UAC) care pipeline. The project involved data preprocessing, exploratory data analysis (EDA), feature engineering, KPI development, operational performance analysis, interactive dashboard creation, and cloud deployment using Streamlit. The dashboard enables monitoring of care transition efficiency, backlog accumulation, throughput, and placement outcomes to support data-driven decision-making.
+
+### **Skills Demonstrated**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- KPI Development & Performance Analytics
+- Business Analytics & Data Visualization
+- Operational Process Analysis
+- Interactive Dashboard Development (Streamlit)
+- Python (Pandas, NumPy, Matplotlib, Plotly)
+- GitHub Version Control
+- Cloud Deployment using Streamlit
+
 # 🎯 Business Problem
 
 Traditional reporting primarily tracks the number of children in custody but does not measure the efficiency of transitions across the care pipeline.
